@@ -1,0 +1,6 @@
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\Ceren\Desktop\algoritma analizi\Sort\Sort\obj\Debug\Sort.pdb
